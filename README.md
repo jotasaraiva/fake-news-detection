@@ -1,3 +1,2 @@
 # fake-news-detection
 
-test
